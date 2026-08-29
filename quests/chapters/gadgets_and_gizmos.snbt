@@ -2,13 +2,13 @@
 	default_hide_dependency_lines: false
 	default_quest_shape: ""
 	filename: "gadgets_and_gizmos"
-	group: "2F8B068425AF05D4"
+	group: "3B8AF43E1258A852"
 	icon: {
 		id: "createthrusters:analogue_contraption_controller"
 	}
 	id: "24A48F8DA4024C8F"
 	images: [ ]
-	order_index: 8
+	order_index: 11
 	quest_links: [ ]
 	quests: [
 		{
